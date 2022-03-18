@@ -1,0 +1,1 @@
+<div class="header__col header__col_contacts"><a href="#" class="link">Контактная информация</a></div>
